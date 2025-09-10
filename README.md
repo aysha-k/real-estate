@@ -29,4 +29,4 @@ The dataset contains details of real estate properties, including:
 - Other relevant features
 
 
-   git clone https://github.com/your-username/unlocking-real-estate-gold.git
+   git clone https://github.com/aysha-k/real-estate
